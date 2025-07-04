@@ -1,7 +1,20 @@
-# Who we are?
-ChainDefenders is a cutting-edge Web3 security firm specializing in auditing. With over 50K+ lines of code audited, and 100+ high/medium vulnerabilities identified, they bring unmatched expertise to the forefront of decentralized security. Backed by a small yet mighty team of 2 specialists, ChainDefenders has been in the top spots of multiple contests and leaderboards.
+# 🛡️ Chain Defenders — Web3 Security Experts
 
-Their participation in 50+ security contests and multiple private engagements highlights their proactive approach to safeguarding blockchain ecosystems. ChainDefenders is your trusted partner in Web3 security.
+Chain Defenders is a cutting-edge Web3 security firm focused on smart contract auditing and blockchain security. With over **50,000+ lines of code audited** and **100+ high/medium severity vulnerabilities uncovered**, we deliver sharp, effective insights to keep decentralized systems secure.
 
-# Want to book us?
-Go to our website to find out how: https://www.chaindefenders.xyz
+Despite being a lean team of just two specialists, we've consistently ranked at the top of major audit contests and leaderboards. Our track record includes:
+
+- 🔍 Participation in **50+ security contests**
+- 🦅 CodeHawks Eagles partnering with Cyfrin
+- 🔐 Numerous private audits for high-impact protocols
+- 🧠 A proactive, research-driven approach to threat discovery
+
+Whether you're launching a new protocol or strengthening an existing one, **Chain Defenders is your trusted partner in Web3 security**.
+
+---
+
+## 📅 Book an Audit
+
+Want to work with us? Visit our website for more details:
+
+👉 [chaindefenders.xyz](https://www.chaindefenders.xyz)
